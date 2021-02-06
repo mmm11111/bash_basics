@@ -21,7 +21,7 @@ fi
 # everything else
 
 echo "The temperature (in Fahrenheit) is:"
-echo "Please giv a numeric answer."
+echo "Please give a numeric answer."
 read temp
 
 if [ $temp -ge 70 ]; then
